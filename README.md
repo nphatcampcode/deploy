@@ -16,10 +16,3 @@ $ npm start
 ```
 
 
-### YouTube Video & Article
-
-[YouTube Video](https://youtu.be/OEdPH4fV7vY)
-
-[Read Article](https://raddy.dev/blog/how-to-build-a-recipe-blog-using-node-js-and-mongodb-express-ejs-mongoose-crud/)
-
-
